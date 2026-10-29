@@ -195,6 +195,6 @@ Moderated testing with 4 participants (2 compliance officers, 2 privacy analysts
 
 ## About the Designer
 
-**Anél Henning** — Digital Product Designer · Compliance Documentation Specialist · HIPAA Business Associate Certified · MS Cybersecurity (Purdue Global, 2026) · BFA Graphic Design (MICA) · BS Computer Science. Based in Tampa, FL.
+**Anèl Henning** — Digital Product Designer · Compliance Documentation Specialist · HIPAA Business Associate Certified · MS Cybersecurity (Purdue Global, 2026) · BFA Graphic Design (MICA) · BS Computer Science. Based in Tampa, FL.
 
 [Portfolio](https://anel-henning.github.io/ux-cybersecurity-portfolio) · [GitHub](https://github.com/AnelHenning2-collab) · [Email](mailto:logicalcoders@outlook.com)
