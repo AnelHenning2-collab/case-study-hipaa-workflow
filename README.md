@@ -31,7 +31,7 @@ This case study documents the design of a HIPAA compliance workflow tool built a
 
 ## Background & Domain Knowledge
 
-This project draws directly from my professional experience as a Compliance Documentation Specialist at Logical Coders and my healthcare communications work at Moffitt Cancer Center, combined with my HIPAA Business Associate Certification and MS Cybersecurity coursework in risk assessment and governance.
+This project draws directly from my professional experience as a Compliance Documentation Specialist at Logical Coders and my healthcare communications work at Moffitt Cancer Center, combined with my HIPAA Business Associate Certification and MS Cybersecurity Management coursework in risk assessment and governance.
 
 HIPAA requires covered entities and business associates to maintain documentation across three rules:
 
@@ -195,6 +195,6 @@ Moderated testing with 4 participants (2 compliance officers, 2 privacy analysts
 
 ## About the Designer
 
-**Anèl Henning** — Digital Product Designer · Compliance Documentation Specialist · HIPAA Business Associate Certified · MS Cybersecurity (Purdue Global, 2026) · BFA Graphic Design (MICA) · BS Computer Science. Based in Tampa, FL.
+**Anèl Henning** — Digital Product Designer · Compliance Documentation Specialist · HIPAA Business Associate Certified · MS Cybersecurity Management (Purdue Global, 2026) · BFA Graphic Design (MICA) · BS Computer Science. Based in Tampa, FL.
 
 [Portfolio](https://anel-henning.github.io/ux-cybersecurity-portfolio) · [GitHub](https://github.com/AnelHenning2-collab) · [Email](mailto:logicalcoders@outlook.com)
